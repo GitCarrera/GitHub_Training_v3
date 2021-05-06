@@ -1,1 +1,2 @@
 this is smaple file 1
+This is comparison lecture
